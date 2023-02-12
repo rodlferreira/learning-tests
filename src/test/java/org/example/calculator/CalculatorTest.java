@@ -1,8 +1,10 @@
 package org.example.calculator;
 
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+@DisplayName("Realização de Teste")
 public class CalculatorTest {
 
     @Test

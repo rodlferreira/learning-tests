@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.calculator.CalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-02-12T21:37:18" hostname="DESKTOP-NSONJ5L" time="0.033">
+<testsuite name="Teste de Soma" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-02-12T21:54:32" hostname="DESKTOP-NSONJ5L" time="0.032">
   <properties/>
-  <testcase name="ShouldReturnZeroWhenNoValueWereGiven()" classname="org.example.calculator.CalculatorTest" time="0.023"/>
-  <testcase name="ShouldThrowAnExceptionWhenTheGivenNumberWereLassThenZero()" classname="org.example.calculator.CalculatorTest" time="0.002"/>
-  <testcase name="ShouldReturnTrueNumberWhenTheGivenNumberIsOdd()" classname="org.example.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="ShouldReturnZeroWhenNoValueWereGiven()" classname="org.example.calculator.CalculatorTest" time="0.022"/>
+  <testcase name="ShouldThrowAnExceptionWhenTheGivenNumberWereLassThenZero()" classname="org.example.calculator.CalculatorTest" time="0.003"/>
+  <testcase name="ShouldReturnTrueNumberWhenTheGivenNumberIsOdd()" classname="org.example.calculator.CalculatorTest" time="0.002"/>
   <testcase name="ShouldReturnTheSumOfGivenValues()" classname="org.example.calculator.CalculatorTest" time="0.001"/>
-  <testcase name="ShouldReturnTheSquareRootOfGivenNumber()" classname="org.example.calculator.CalculatorTest" time="0.0"/>
+  <testcase name="ShouldReturnTheSquareRootOfGivenNumber()" classname="org.example.calculator.CalculatorTest" time="0.001"/>
   <testcase name="ShouldReturnFalseWhenTheGivenNumberIsEven()" classname="org.example.calculator.CalculatorTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
